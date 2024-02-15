@@ -1,8 +1,7 @@
 # Coding Assessment L-2 Code Submission - Marmeto
 
-This is my code submission for the assessment from Marmeto
-
-This is a product card design implementation using HTML, CSS and Javascript.
+- This is a product card design implementation using HTML, CSS and Javascript.
+- Live page -> https://tahmeerpasha.github.io/marmeto-assignment/
 
 Here is the interface developed by me
 
