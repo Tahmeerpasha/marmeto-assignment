@@ -10,15 +10,15 @@ Here is the interface developed by me
 
 # Men Section
 
-![alt text](image.png)
+![image](https://github.com/Tahmeerpasha/marmeto-assignment/assets/93395497/282378ec-73fa-4a15-b941-0935856b5395)
 
 # Women Section
 
-![alt text](image-1.png)
+![image-1](https://github.com/Tahmeerpasha/marmeto-assignment/assets/93395497/10efe5b8-6f8f-4a90-b526-2c140160ca02)
 
 # Kids Section
 
-![alt text](image-2.png)
+![image-2](https://github.com/Tahmeerpasha/marmeto-assignment/assets/93395497/4a308f7d-760d-4822-b143-2253ac90e1dc)
 
 ## Work done
 
